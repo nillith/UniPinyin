@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pinyin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pinyin_jar</output-path>
+    <root id="archive" name="pinyin.jar">
+      <element id="module-output" name="pinyin" />
+    </root>
+  </artifact>
+</component>
