@@ -41,3 +41,6 @@ Pinyin.getPinyinString("你好，世界！", "-"/*自定义分隔符*/, true/*�
 Pinyin.isHeteronym('好'); // true  判断是否是多音字
 Pinyin[] all = Pinyin.getPinyinAll('好'); // 获取多音字所有的拼音对象
 ```
+## License
+
+Nillith, 2016. Licensed under an [Apache-2](LICENSE.txt) license.
