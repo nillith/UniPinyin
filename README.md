@@ -2,7 +2,7 @@ UniPinyin
 ============
 Java 汉语拼音查询工具。支持CJK基本字符集及扩充区A的中文汉字，共26679个，其中多音字6769个。
 
-**警告，UniPinyin目前并不支持句中多音字判定。如：**
+**警告！UniPinyin目前并不支持句中多音字判定。如：**
 ```java
 Pinyin.getPinyinString("好读书不好读书，好读书不好读书。");
 // 返回结果为 hǎo dú shū bù hǎo dú shū ， hǎo dú shū bù hǎo dú shū 。
